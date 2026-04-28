@@ -15,6 +15,11 @@ DATABASES = {
     )
 } 
 
+# CSRF hatasını çözmek için Railway linkini buraya ekliyoruz
+CSRF_TRUSTED_ORIGINS = [
+    "https://flight-reservation-api-production.up.railway.app"
+]
+
 # Statik dosyalar için WhiteNoise ayarı
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 STATIC_ROOT = BASE_DIR / 'staticfiles'
