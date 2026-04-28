@@ -31,14 +31,13 @@ Django REST Framework API for flight reservation workflows including scheduling,
 
 
 ## 📚Navigation
-
 - [🚀 API Documentation](#-api-documentation)
 - [🚀 API Testing](#-api-testing)
 - [✨ Overview](#-overview)
 - [🛠️ Built With](#-built-with)
 - [⚡ How To Use](#-how-to-use)
 - [🌍 About This Project](#-about-this-project)
-- [🏗️ Key Features](#-key-features)
+- [⚡ Key Features](#-key-features)
 - [📬 Contact Information](#-contact-information)
 
 
@@ -264,7 +263,8 @@ Bu projede aşağıdaki teknik yaklaşımlar ve çözümler uygulanmıştır:
 - **Kullanıcı Yetkilendirme:** staff ve normal kullanıcı rollerine uygun yetkilendirme yapısı.
 
 
-## 🏗️ Key Features
+## ⚡ Key Features
+
 
 - **Flight Reservation Management:** Users can view and book flights.
 - **Staff Authorizations:** Staff users can fully control flights and reservations.
