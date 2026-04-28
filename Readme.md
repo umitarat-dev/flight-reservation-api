@@ -30,15 +30,15 @@ Django REST Framework API for flight reservation workflows including scheduling,
 </p>
 
 
-## Navigation
+## 📚Navigation
 
-- [🚀 API Documentation](#api-documentation)
-- [🚀 API Testing](#api-testing)
-- [✨ Overview](#overview)
-- [🛠️ Built With](#built-with)
-- [⚡ How To Use](#how-to-use)
-- [🌍 About This Project](#about-this-project)
-- [🏗️ Key Features](#key-features)
+- [🚀 API Documentation](#-api-documentation)
+- [🚀 API Testing](#-api-testing)
+- [✨ Overview](#-overview)
+- [🛠️ Built With](#-built-with)
+- [⚡ How To Use](#-how-to-use)
+- [🌍 About This Project](#-about-this-project)
+- [🏗️ Key Features](#-key-features)
 - [📬 Contact Information](#-contact-information)
 
 
