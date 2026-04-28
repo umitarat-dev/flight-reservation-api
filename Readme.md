@@ -17,7 +17,7 @@ Django REST Framework API for flight reservation workflows including scheduling,
       🖥️ Live Demo
     </a>
      | 
-    <a href="">
+    <a href="https://github.com/umitarat-dev/flight-reservation-api.git">
       📂 Repository
     </a>
   </h3>
@@ -32,18 +32,17 @@ Django REST Framework API for flight reservation workflows including scheduling,
 
 ## Navigation
 
-- [Table of Contents](#table-of-contents)
-- [API Documentation](#api-documentation)
-- [API Testing](#api-testing)
-- [Overview](#overview)
-- [Built With](#built-with)
-- [How To Use](#how-to-use)
-- [About This Project](#about-this-project)
-- [Key Features](#key-features)
+- [🚀 API Documentation](#api-documentation)
+- [🚀 API Testing](#api-testing)
+- [✨ Overview](#overview)
+- [🛠️ Built With](#built-with)
+- [⚡ How To Use](#how-to-use)
+- [🌍 About This Project](#about-this-project)
+- [🏗️ Key Features](#key-features)
 - [📬 Contact Information](#-contact-information)
 
 
-## API Documentation
+## 🚀 API Documentation
 
 You can access the detailed API documentation of the project from the links below:
 
@@ -69,7 +68,7 @@ You can access the detailed API documentation of the project from the links belo
 - Along with Swagger and Redoc documentation, you can use our Postman collection to test APIs.
  [Flight Reservation API Postman Collection](https://umit-dev.postman.co/workspace/Team-Workspace~7e9925db-bf34-4ab9-802e-6deb333b7a46/collection/17531143-5c497d31-9dd6-44f2-930c-8f4337595920?action=share&creator=17531143)
 
-## API Testing
+## 🚀 API Testing
 
 To test APIs via Postman, you can follow the steps below:
 1. Install Postman (if not installed): [Download Postman](https://www.postman.com/downloads/).
@@ -80,7 +79,7 @@ To test APIs via Postman, you can follow the steps below:
 [Flight Reservation API Postman Collection](https://umit-dev.postman.co/workspace/Team-Workspace~7e9925db-bf34-4ab9-802e-6deb333b7a46/collection/17531143-5c497d31-9dd6-44f2-930c-8f4337595920?action=share&creator=17531143)
 
 
-## Overview
+## ✨ Overview
 
 Flight Reservation App is a modern API solution through which users can manage flight reservations. Main features:
 - **Flight Management:** staff users can add, update and delete flights.
@@ -153,7 +152,7 @@ Flight Reservation App, kullanıcıların uçuş rezervasyonlarını yönetebile
 
 
 
-## Built With
+## 🛠️ Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
@@ -165,7 +164,7 @@ Flight Reservation App, kullanıcıların uçuş rezervasyonlarını yönetebile
 - PostgreSQL - High performance database for production environment.
 
 
-## How To Use
+## ⚡ How To Use
 
 <!-- This is an example, please update according to your application -->
 
@@ -189,7 +188,7 @@ Flight Reservation App, kullanıcıların uçuş rezervasyonlarını yönetebile
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Umit8098/Project_Django_Rest_Framework_Flight_App_CH-12.git
+$ git clone https://github.com/umitarat-dev/flight-reservation-api.git
 
 # Install dependencies
     $ python -m venv env
@@ -232,7 +231,7 @@ DJANGO_LOG_LEVEL=INFO
 ```
 
 
-## About This Project
+## 🌍 About This Project
 
 This project was developed to modernize flight booking processes and make flight planning easier for users. It aims to provide solutions for the following situations:
 
@@ -265,7 +264,7 @@ Bu projede aşağıdaki teknik yaklaşımlar ve çözümler uygulanmıştır:
 - **Kullanıcı Yetkilendirme:** staff ve normal kullanıcı rollerine uygun yetkilendirme yapısı.
 
 
-## Key Features
+## 🏗️ Key Features
 
 - **Flight Reservation Management:** Users can view and book flights.
 - **Staff Authorizations:** Staff users can fully control flights and reservations.
