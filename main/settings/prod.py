@@ -9,7 +9,7 @@ ALLOWED_HOSTS = config("ALLOWED_HOSTS", default="*").split(",")
 # Neon PostgreSQL ayarıları, Railway'de de benzer şekilde çalışır
 DATABASES = { 
     "default": dj_database_url.config(
-        default=config("DATABASE_URL"), # Railway'deki bağlantı dizesi
+        default=config("DATABASE_URL", default="postgres://user:pass@localhost:5432/db_name"), # Railway'deki bağlantı dizesi
         conn_max_age=600,
         conn_health_checks=True,
     )
