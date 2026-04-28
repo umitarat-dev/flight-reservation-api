@@ -23,3 +23,13 @@ CSRF_TRUSTED_ORIGINS = [
 # Statik dosyalar için WhiteNoise ayarı
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 STATIC_ROOT = BASE_DIR / 'staticfiles'
+
+# Django'nun Railway/Proxy arkasında olduğunu anlamasını sağlar
+SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
+
+# Tüm HTTP isteklerini HTTPS'e yönlendirir
+SECURE_SSL_REDIRECT = True
+
+# Session ve CSRF çerezlerini sadece HTTPS üzerinden gönderir
+SESSION_COOKIE_SECURE = True
+CSRF_COOKIE_SECURE = True
