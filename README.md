@@ -13,7 +13,7 @@ Django REST Framework API for flight reservation workflows including scheduling,
 
 <div align="center">
   <h3>
-    <a href="https://flight-reservation-api-production.up.railway.app/">
+    <a href="https://flight-reservation-api-production.up.railway.app/swagger/">
       🖥️ Live Demo
     </a>
      | 
@@ -24,7 +24,7 @@ Django REST Framework API for flight reservation workflows including scheduling,
 </div>
 
 <p align="center">
-  <a href="https://recipe-app-react-umitdev.vercel.app/">
+  <a href="https://flight-reservation-api-production.up.railway.app/swagger/">
     <img src="./assets/Flight_App_1.gif" alt="Flight_App" width="700"/>
   </a>
 </p>
