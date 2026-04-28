@@ -25,7 +25,7 @@ Django REST Framework API for flight reservation workflows including scheduling,
 
 <p align="center">
   <a href="https://flight-reservation-api-production.up.railway.app/swagger/">
-    <img src="./assets/Flight_App_1.gif" alt="Flight_App" width="700"/>
+    <img src="./assets/flight-reservation-api.gif" alt="Flight_App" width="700"/>
   </a>
 </p>
 
