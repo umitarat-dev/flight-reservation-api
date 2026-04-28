@@ -8,7 +8,7 @@
 <h1 align="center">✈️ Flight Reservation API</h1>
 
 <p align="center">
-Django REST Framework API for flight reservation workflows including scheduling, booking, and role-based endpoint access.
+Flight Reservation API is a robust backend solution designed to handle complex flight booking workflows. From schedule management for staff to seamless reservation flows for users, this project demonstrates a modern approach to API development with a focus on scalability, security (JWT/Token Auth), and cloud-native deployment.
 </p>
 
 <div align="center">
