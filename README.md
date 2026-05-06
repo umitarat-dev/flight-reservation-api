@@ -3,6 +3,11 @@
   <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Framework-Django%20REST-092E20?style=flat&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/API-RESTful-0A84FF?style=flat&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Container-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hosting-Railway-131313?style=flat&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/API%20Docs-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" />
+  
 </p>
 
 <h1 align="center">✈️ Flight Reservation API</h1>
@@ -90,16 +95,6 @@ Flight Reservation App is a modern API solution through which users can manage f
 
 ---
 
-Flight Reservation App, kullanıcıların uçuş rezervasyonlarını yönetebileceği modern bir API çözümüdür. Başlıca özellikler:
-- **Uçuş Yönetimi:** staff kullanıcılar uçuşları ekleyebilir, güncelleyebilir ve silebilir.
-- **Rezervasyon Yönetimi:** staff kullanıcılar tüm rezervasyonları görüntüleyebilir, kullanıcılar kendi rezervasyonlarını yönetebilir.
-- **Anonim Erişim:** Kayıtlı olmayan kullanıcılar sadece gelecekteki uçuşları görüntüleyebilir.
-- **Gelişmiş Kullanıcı Yetkilendirme:** Kullanıcılar şifre değiştirme ve kendi rezervasyon işlemlerini yönetme yeteneğine sahiptir.
-- **Swagger ve Redoc ile API Dokümantasyonu:** API yapısını detaylı inceleme ve test etme olanağı.
-- **PostgreSQL Desteği:** Production ortamında güçlü ve güvenilir veritabanı desteği.
-
----
-
 - Project Swagger and Redoc Documentation Visual 
 <!-- ![screenshot](assets/Flight_App_1.gif) -->
 <img src="assets/Flight_App_1.gif" alt="Project Swagger and Redoc Documentation Visual" width="400"/>
@@ -174,14 +169,6 @@ Flight Reservation App, kullanıcıların uçuş rezervasyonlarını yönetebile
 - When installing the required packages in the requirements.txt file, review the package differences for windows/macOS/Linux environments. 
 
 - Complete the installation by uncommenting the appropriate package.
-
----
-
-- For online demo: You can take a look at [Swagger](https://umit8113.pythonanywhere.com/swagger/) or [Redoc](https://umit8113.pythonanywhere.com/redoc/) interfaces.
-
-- requirements.txt dosyasındaki gerekli paketlerin kurulumu esnasında windows/macOS/Linux ortamları için paket farklılıklarını inceleyin. 
-
-- Uygun olan paketi yorumdan kurtararak kurulumu gerçekleştirin. 
 
 ---
 
